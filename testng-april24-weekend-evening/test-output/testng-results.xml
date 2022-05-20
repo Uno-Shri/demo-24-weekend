@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-02T22:01:45 EDT" name="Default suite" finished-at="2022-05-02T22:01:45 EDT" duration-ms="99">
+    <groups>
+    </groups>
+    <test started-at="2022-05-02T22:01:45 EDT" name="Default test" finished-at="2022-05-02T22:01:45 EDT" duration-ms="99">
+      <class name="basicTestngCoding.NewTest">
+        <test-method is-config="true" signature="pre()[pri:0, instance:basicTestngCoding.NewTest@1356d4d4]" started-at="2022-05-02T22:01:45 EDT" name="pre" finished-at="2022-05-02T22:01:45 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre -->
+        <test-method signature="updateName()[pri:0, instance:basicTestngCoding.NewTest@1356d4d4]" started-at="2022-05-02T22:01:45 EDT" name="updateName" finished-at="2022-05-02T22:01:45 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateName -->
+        <test-method is-config="true" signature="post()[pri:0, instance:basicTestngCoding.NewTest@1356d4d4]" started-at="2022-05-02T22:01:45 EDT" name="post" finished-at="2022-05-02T22:01:45 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method is-config="true" signature="pre()[pri:0, instance:basicTestngCoding.NewTest@1356d4d4]" started-at="2022-05-02T22:01:45 EDT" name="pre" finished-at="2022-05-02T22:01:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre -->
+        <test-method signature="updatePwd()[pri:0, instance:basicTestngCoding.NewTest@1356d4d4]" started-at="2022-05-02T22:01:45 EDT" name="updatePwd" finished-at="2022-05-02T22:01:45 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePwd -->
+        <test-method is-config="true" signature="post()[pri:0, instance:basicTestngCoding.NewTest@1356d4d4]" started-at="2022-05-02T22:01:45 EDT" name="post" finished-at="2022-05-02T22:01:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- basicTestngCoding.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
